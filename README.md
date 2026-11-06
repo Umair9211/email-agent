@@ -178,12 +178,10 @@ langgraph dev
 ---
 
 ## 🗺️ Roadmap
-
-- [ ] Persistent memory with SQLite checkpointer
-- [ ] Handle multiple pending approvals in one turn
+- [ ] Web UI ( React)
 - [ ] Attachment download and summarization
 - [ ] Email classification and priority labels
-- [ ] Web UI (Streamlit or React)
+- [ ] Persistent memory with SQLite checkpointer
 - [ ] Unit tests for Gmail helpers
 
 ---
